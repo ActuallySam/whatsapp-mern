@@ -1,11 +1,9 @@
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyD-6miiqJcnvyf-nPTRDDYvfp1vnePB62s",
-  authDomain: "whatsapp-mern-01.firebaseapp.com",
-  databaseURL: "https://whatsapp-mern-01.firebaseio.com",
-  projectId: "whatsapp-mern-01",
-  storageBucket: "whatsapp-mern-01.appspot.com",
-  messagingSenderId: "52581052026",
-  appId: "1:52581052026:web:843ad808471ff4aad2d5c3",
-  measurementId: "G-12NHL4X6F0"
+  apiKey: "AIzaSyAdIKAwdod7Mme5jLDcKQvVhWuQhGo_pDM",
+  authDomain: "whatsapp-mern-282d4.firebaseapp.com",
+  projectId: "whatsapp-mern-282d4",
+  storageBucket: "whatsapp-mern-282d4.appspot.com",
+  messagingSenderId: "9179871342",
+  appId: "1:9179871342:web:4ba9e56257668bfce18e7f"
 };
